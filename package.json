@@ -1,0 +1,15 @@
+{
+  "name": "proyet1-jm",
+  "version": "1.0.0",
+  "description": "proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Jorge Manrique <georgemac.28@gmail.com>",
+  "license": "MIT"
+}
